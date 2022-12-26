@@ -84,7 +84,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/Priyadarshan2000/WEB-PROJECT.git ``
+``$ git remote add upstream https://github.com/scEce-Tech/WEB-PROJECT.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -133,8 +133,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/Priyadarshan2000/WEB-PROJECT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Priyadarshan2000/WEB-PROJECT" />
+			<a href="https://github.com/scEce-Tech/WEB-PROJECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=scEce-Tech/WEB-PROJECT" />
 </a>
 		</td>
 	</tr>
@@ -146,11 +146,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 
 ##### :mailbox_with_no_mail: :mailbox_with_no_mail: You can connect for any query (or can also ask by raising issue):grey_exclamation: :grey_exclamation: :grey_exclamation:
 
-<a href= "https://www.linkedin.com/in/priyadarshan-ghosh-0a6274190/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href= "http://priyadarshanghosh.com/"><img src="https://img.icons8.com/bubbles/48/000000/domain.png"/></a>
-<a href="priyadarshanghosh26@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href='https://github.com/Priyadarshan2000/'><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
-![](https://visitor-badge.glitch.me/badge?page_id=Priyadarshan2000.Awesome-Python-Scripts)
+
    
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/> 
