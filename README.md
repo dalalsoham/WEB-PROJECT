@@ -1,20 +1,19 @@
 
-![synapse_cover](https://user-images.githubusercontent.com/62868878/209576771-85c1bc1a-e4c9-4e4e-bc3f-b7cf6ee4f554.png)
+![synapse_cover](https://user-images.githubusercontent.com/82677314/209576740-fa1707e7-1242-4115-b1f0-86e0e965db9c.png)
 
-  
-  
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> SYNAPSE 2023 IS HERE :bangbang::bangbang::bangbang:
 
-:performing_arts: **What is SYNAPSE ?**
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> .SYNAPSE 1.0 IS HERE :bangbang::bangbang::bangbang:
 
-:diamonds: SYNAPSE is a month-long challenge. It happens every year in the month of January .
-  SYNAPSE is open to everyone and it marks the celebration of **Open Source.** It's the biggest Open Source event that encourages newbies to participate in Open Source and     create their 1st meaningful PR.
+:performing_arts: **What is Synapse ?**
+
+:diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
+Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
   
   <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
 
 🏆 🏆 **Rewards :** 🏆🏆
 
-You get some awesome goodies which include A limited-edition T-shirt  for **FREE!** and some stickers.
+You get some awesome goodies for **FREE!**.
 
 🤔🤔**How can you Join** :grey_question::grey_question:
 
@@ -38,15 +37,15 @@ Then lets start with this repository.
 
 #### ⚠️Rules :grey_exclamation: :grey_exclamation: :smirk_cat: :smirk_cat: :smirk_cat::
 
-✅ Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
+✅ Pull requests can be submitted to given repository on GitHub.
 
 ✅ The pull request must contain commits you made yourself.
 
-✅ If a maintainer reports your pull request as 'spam' or 'invalid', it will not be counted toward your participation in Hacktoberfest.
+✅ If a maintainer reports your pull request as 'spam' or 'invalid', it will not be counted toward your participation in Synapse.
 
 ✅ If a maintainer reports behaviour that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between January 1-31 in any time zone.
 This year, the first 55,000 participants can earn a T-shirt.
 
 #### ⚠️What not to do :exclamation: :exclamation: :triumph: :triumph:
@@ -57,8 +56,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 
 ❌ PRs that are regarded by a project maintainer as a hindrance vs. helping
 
-❌ Something that’s clearly an attempt to simply +1 your PR count for October
-
+❌ Something that’s clearly an attempt to simply +1 your PR count for January
  
 
 ## Steps to setup this Repository Locally :monocle_face: :monocle_face::monocle_face:
