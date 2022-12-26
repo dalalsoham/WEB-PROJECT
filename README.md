@@ -45,8 +45,7 @@ Then lets start with this repository.
 
 ✅ If a maintainer reports behaviour that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between January 1-31 in any time zone.
-This year, the first 55,000 participants can earn a T-shirt.
+✅ TOP performers will get free goodies for their approved pull requests (PRs) on given repos between January 1-31.
 
 #### ⚠️What not to do :exclamation: :exclamation: :triumph: :triumph:
 
@@ -143,8 +142,3 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <img align="center" alt="GIF" src="https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/1_IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
 
 ##### :mailbox_with_no_mail: :mailbox_with_no_mail: You can connect for any query (or can also ask by raising issue):grey_exclamation: :grey_exclamation: :grey_exclamation:
-
-
-   
-
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/> 
