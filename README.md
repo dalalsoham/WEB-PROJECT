@@ -14,6 +14,11 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 # Registration Link for Synapse 1.0
 https://forms.gle/zQyxgsGpnAUNrV7o9
 
+# Rules and Regulations of contribution in Content Repository
+- You can use CODEIGNITER, LARAVEL, REACT, NEXT, TAILWIND CSS, SAAS, BULMA. 
+- Kindly give a moderate level project.
+- Delete Node Module before pushing the folder structure.
+
 # Rewards :
 
 - You get some awesome goodies for **FREE!**.
