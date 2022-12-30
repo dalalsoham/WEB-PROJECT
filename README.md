@@ -19,12 +19,6 @@ https://forms.gle/DAQELB4Gx7raeV6u6
 - You get some awesome goodies for **FREE!**.
 - participation certificates for all participants.
 
-🤔🤔**How can you Join** :grey_question::grey_question:
-
-Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
-
-<https://hacktoberfest.digitalocean.com/register>
-
 ## Excited :interrobang: :star_struck: :star_struck: :star_struck:  
 
 To add your contributions towards opensource community and grab the oppurtunity:smiley: :smiley::smiley: 
