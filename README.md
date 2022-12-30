@@ -10,10 +10,14 @@
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
   
   <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+  
+# Registration Link for Synapse 1.0
+https://forms.gle/DAQELB4Gx7raeV6u6
 
-🏆 🏆 **Rewards :** 🏆🏆
+# Rewards :
 
-You get some awesome goodies for **FREE!**.
+- You get some awesome goodies for **FREE!**.
+- participation certificates for all participants.
 
 🤔🤔**How can you Join** :grey_question::grey_question:
 
