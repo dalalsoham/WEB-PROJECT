@@ -12,7 +12,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
   <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
   
 # Registration Link for Synapse 1.0
-https://forms.gle/DAQELB4Gx7raeV6u6
+https://forms.gle/zQyxgsGpnAUNrV7o9
 
 # Rewards :
 
