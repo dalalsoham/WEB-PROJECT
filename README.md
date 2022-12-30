@@ -79,7 +79,7 @@ Then lets start with this repository.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/scEce-Tech/WEB-PROJECT.git ``
+``$ git remote add upstream https:/SC-ECE/github.com//WEB-PROJECT.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -128,8 +128,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/scEce-Tech/WEB-PROJECT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scEce-Tech/WEB-PROJECT" />
+			<a href="https://github.com/SC-ECE/WEB-PROJECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SC-ECE/WEB-PROJECT" />
 </a>
 		</td>
 	</tr>
