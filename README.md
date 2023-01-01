@@ -19,6 +19,7 @@ https://synapse1-0.vercel.app/
 - Kindly give a moderate level project.
 - Delete Node Module before pushing the folder structure.
 - Your folder name must be your project name.
+- Add Readme file. Demo of Readme file is given in the readme.md of the repo.
 
 # Rewards :
 
