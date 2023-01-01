@@ -18,6 +18,7 @@ https://synapse1-0.vercel.app/
 - You can use HTML, CSS, JS and Any Framework. 
 - Kindly give a moderate level project.
 - Delete Node Module before pushing the folder structure.
+- Your folder name must be your project name.
 
 # Rewards :
 
