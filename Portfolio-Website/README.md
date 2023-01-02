@@ -23,7 +23,8 @@ Go to the project directory
   cd my-project
 ```
 
-
+# Synapse Ticket
+![Soham](https://user-images.githubusercontent.com/82677314/210196678-56326b93-2705-45e6-9832-76738ac16181.png)
 
 
 ## Screenshots
@@ -37,5 +38,3 @@ White Mode:
 ## Wbsite Link
 - [Portfolio website link](https://dalalsoham.github.io/PORTFOLIO-SOHAM_DALAL.github.io/)
 
-## Synapse 1.0 Ticket
-![Soham Dalal Synapse 1.0 ticket](https://i.postimg.cc/2659WJZz/Soham.png)
