@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+hr {
+    border: solid #1976d2;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 12%;
+    font-size: 15px;
+    padding: 8px;
+    background-color: #9bdec7;
+    color: #DBE9EE;
+    background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+}
+
+.container {
+    background-color:#4F6D7A;
+    padding: 15px 50px 25px 50px;
+    border: solid;
+
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    display: flex;
+    opacity: 0.9;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+select,
+textarea{
+    background-color: #DBE9EE;
+    width: 100%;
+    padding: 12px;
+    margin:10px;
+}
+fieldset{
+    border: 2.5px solid #DBE9EE;
+
+}
+
+.main_heading {
+    text-align: center;
+}
+
+input[type="submit"]{
+    background-color:#166088;
+    color:rgb(255, 255, 255);
+
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover{
+    background-color: #4A6FA5;
+    font-size: 120%;
+}
