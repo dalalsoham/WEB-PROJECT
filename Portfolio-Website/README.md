@@ -38,4 +38,4 @@ White Mode:
 - [Portfolio website link](https://dalalsoham.github.io/PORTFOLIO-SOHAM_DALAL.github.io/)
 
 ## Synapse 1.0 Ticket
-- [Soham Dalal Synapse 1.0 ticket](https://i.postimg.cc/2659WJZz/Soham.png)
+![Soham Dalal Synapse 1.0 ticket](https://i.postimg.cc/2659WJZz/Soham.png)
