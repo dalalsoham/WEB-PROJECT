@@ -18,3 +18,4 @@ Please include a summary of the change
 - [ ] I have created a helpful and easy to understand `README.md`
 - [ ] I have added my Synapse Ticket to the `README.md`
 - [ ] I have added screenshots  of my project to the `README.md`
+- [ ] Folder Name = Project Name.
