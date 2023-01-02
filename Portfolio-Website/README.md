@@ -23,7 +23,8 @@ Go to the project directory
   cd my-project
 ```
 
-
+# Synapse Ticket
+![Soham](https://user-images.githubusercontent.com/82677314/210196678-56326b93-2705-45e6-9832-76738ac16181.png)
 
 
 ## Screenshots
