@@ -86,20 +86,21 @@ h1{
 
 }
 
-.Card{
+.card{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     position: relative;
     top:15px;
     margin: 20px;
     left: 30px;
     justify-content: center;
-
-}
-.card{
- transition: width 1s, height 1s;
+    height: 500px;
+    width: 1000px;
+    padding: 10px;
+    transition: width 1s, height 1s;
     margin:10px;
 }
+
 .progress{
     position: relative;
  margin-left: 50px;
@@ -193,4 +194,12 @@ cursor: pointer;
 a{
     text-decoration: none;
     color: black;
+}
+.projects{
+    display: flex;
+    flex-direction: row;
+}
+.experiences{
+    display: flex;
+    flex-direction: row;
 }
