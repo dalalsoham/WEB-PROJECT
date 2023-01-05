@@ -15,3 +15,7 @@ stack used : HTML,CSS,JAVASCRIPT
 <h1>TICKET</h1>
 
 ![photo_2023-01-02_12-28-25](https://user-images.githubusercontent.com/71378462/210824362-874908e0-0773-42af-975b-17b9ad4a5bc8.jpg)
+
+
+Project link : 
+https://ankit62042.github.io/QuizAppProject/
