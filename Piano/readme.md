@@ -13,4 +13,5 @@ The layout is created using basic html and css. In HTML part two "div" are creat
 [Link](https://www.kapwing.com/videos/6395f2579e05ca0011f002e5)
 
 # Synapse Ticket
-[](screenshot/photo_2023-01-05_22-39-29.jpg)
+!![photo_2023-01-05_22-39-29](https://user-images.githubusercontent.com/93964076/210841559-55ec9767-9e3f-41a9-8504-ab3c66d4d959.jpg)
+
