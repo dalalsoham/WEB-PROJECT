@@ -10,6 +10,6 @@
 
 ![Soumyajit](/TO-DO-LIST/Image/Soumyajit.png)
 
-## Webaite Screenshot
+## Website Screenshot
 
 ![TO-DO-LIST](/TO-DO-LIST/Image/screencapture-127-0-0-1-5500-TO-DO-LIST-to-do-html-2023-01-06-13_45_01.png)
