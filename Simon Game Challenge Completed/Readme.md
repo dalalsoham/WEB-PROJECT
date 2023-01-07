@@ -13,3 +13,7 @@ It is an Simple project based on real world game called The Simon game.One must 
 
 # Simon
 https://ashish26940.github.io/Simon-game/
+
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/116710038/211134321-956e5083-4e65-4411-abfc-ac6597c5f92d.png)
