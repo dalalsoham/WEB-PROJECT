@@ -43,6 +43,10 @@ p{
     border: solid black 2px;
     box-sizing: border-box;
 }
+.white-key:hover
+{
+    background-color: gray;
+}
 .black-key{
     height: 160px;
     width: 38px;
@@ -50,6 +54,10 @@ p{
     border-radius:0 0   5px 5px ;
     box-sizing: border-box;
     position: absolute;
+}
+.black-key:hover
+{
+    background-color:grey;
 }
 .black-key:nth-child(1)
 {
@@ -85,7 +93,7 @@ p{
 {
     left: 865px; 
 }
-@media (max-width: 768px)
+/*@media (max-width: 768px)
 {
 #piano{
     width: 335px;
@@ -128,13 +136,113 @@ p{
     left: 847px; 
 }
 
-}
-@media (max-width:1199px) and (min-width:769px)
+}*/
+@media (max-width:1199px) and (min-width:768px)
 {
+    p{
+        font-size: 60px;
+        margin-top: 0;
+    }
     #piano{
-        width:765px
+        width:650px;
     }
     .keys{
         width: 633px;
     }
+    .black-key:nth-child(1)
+    {
+        left: 60px;
+    }
+   
+    .black-key:nth-child(3)
+    {
+        left: 200px;
+    }
+    .black-key:nth-child(4)
+    {
+        left: 250px;
+    }
+    .black-key:nth-child(5)
+    {
+        left:300px;
+    }
+    .black-key:nth-child(6)
+    {
+        left: 390px ;
+    }
+    .black-key:nth-child(7){
+        left: 440px;
+    }
+    .black-key:nth-child(8){
+        left: 490px;
+    }
+    .black-key:nth-child(9)
+    {
+        left: 580px;
+    }
+}
+@media (max-width:1024) and (min-width:768px)
+{
+    #piano{
+        width: 358px;
+    }
+    .keys{
+        width: 318px;
+    }
+  
+}
+@media (max-width:767px) and (min-width:360px)
+{
+    #piano{
+        width:330px;
+    }
+    .keys{
+        width:320px;
+    }
+    .black-key{
+        width: 15px;
+        border-radius: 0 0 4px 4px;
+    }
+    .white-key
+    {
+        width: 200px;
+        border-radius: 0 0 6px 6px;
+    }
+    .black-key:nth-child(1)
+{
+    left: 8px; 
+}
+.black-key:nth-child(2)
+{
+    left: 38px; 
+}
+.black-key:nth-child(3)
+{
+    left: 80px; 
+}
+.black-key:nth-child(4)
+{
+    left: 105px; 
+}.black-key:nth-child(5)
+{
+    left: 130px; 
+}.black-key:nth-child(6)
+{
+    left: 175px;
+     
+}
+.black-key:nth-child(7)
+{
+    left: 198px; 
+}.black-key:nth-child(8)
+{
+    left: 245px; 
+}.black-key:nth-child(9)
+{
+    left: 265px; 
+}.black-key:nth-child(10)
+{
+    left: 287px; 
+}
+    
 }
