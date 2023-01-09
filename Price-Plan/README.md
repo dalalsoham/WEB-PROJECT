@@ -37,9 +37,9 @@ A responsive pricing panel using CSS Flexbox.
 
 #### Links
 
-- My branch URL:
+- My branch URL: https://github.com/EmberTSeal/Web-Dev-Synapse/tree/Price-Plan-EmberTSeal/Price-Plan
 - Synapse 1.0 : Web Project URL: https://github.com/SC-ECE/WEB-PROJECT
-- Live Site URL:
+- Live Site URL: 
 
 ## My Process
 
