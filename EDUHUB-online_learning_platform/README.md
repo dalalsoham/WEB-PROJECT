@@ -1,8 +1,8 @@
 # Eduhub
 
-This is a simple Online Educational platform web project made with tailwind only.
+##This is a simple Online Educational platform web project made with tailwind CSS only.
 
-## A simple payment webpage only using HTML and CSS
+
 
 ## Authors
 
@@ -10,6 +10,8 @@ This is a simple Online Educational platform web project made with tailwind only
 
 ## Synapse Ticket
 
-![Niladri](/images/Niladri.png)
+
+![Niladri](https://user-images.githubusercontent.com/93518661/211160231-b02889de-9456-4c94-9f62-6a73d97078e2.png)
 
 ## Project Website
+- [Visit Site](https://niladri2003.github.io/Eduhub/)
