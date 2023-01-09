@@ -1,7 +1,7 @@
 
 # FOODO Website
 
-This is a commercial food website only using HTML,CSS,JS. A stylish and modern structured webiste.
+This is a commercial food website only using HTML,CSS,JS. A stylish and modern structured website.
 
 ## Authors
 
