@@ -1,5 +1,8 @@
 # 🔧QR CODE GENERATOR⚙️
-#### 🌎 A simple 🔧QR CODE GENERATOR⚙️ Website using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠)
+
+## Description
+This is a 🌎 A simple 🔧QR CODE GENERATOR⚙️ Website using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠) which is used to generate Qr code of text or link.
+
 
 ### `Click The Link to Check My Webstite` 👉 : [Click Here](https://dhrupad-qrcodegenerator.netlify.app/)
 
