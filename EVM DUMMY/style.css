@@ -91,3 +91,23 @@ input {
   font-weight: bold;
   background-color: cornflowerblue;
 }
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="m"] {
+    width: 100%;
+    margin: 10px;
+  }
+  .container{
+    margin: 1px;
+  }
+  .red{
+    margin: 5px;
+    height: 20px;
+    width: 100px;
+    border-radius: 50px;
+  }
+   .click{
+    width: 200px;
+   }
+}
